@@ -1,6 +1,6 @@
 # Envirosocial Complexity 
 
-# Complejidad social aplicada?
+# Complejidad social aplicada a medio ambiente?
 
 Segun lo indicado por el Centro de COmplejidad Social de la Geroge Mason University (https://socialcomplexity.gmu.edu/)
 su centro de investigacion aborda la complejidad social desde la interdisciplinariedad que comprende investigación, descubrimientos, invenciones que apoyen la exploracion y el analisis de fenomenos sociales humanos. En este centro se enfocan en explotar las interacciones sinergicas entre investigacion teórica y investigacion de política aplicada. 
