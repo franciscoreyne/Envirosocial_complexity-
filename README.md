@@ -32,7 +32,7 @@ Assessing and mapping human well-being for sustainable development amid flood ha
 
 
 
-
+# Complejidad Social y Sostenibilidad/Sustentabilidad
 Otro paper que habla de Complejidad social y sostenibilidad (encontrado en google).
 Social Complexity and Sustainability, May 2006, Ecological Complexity 3(2):91-103
 
