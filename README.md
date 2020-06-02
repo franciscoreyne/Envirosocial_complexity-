@@ -86,3 +86,13 @@ The Production and Distribution of Knowledge in The United State
 February 2004Ecological Complexity 1(1):3-6
 Abstract
 Complexity poses enormous challenges in ecology. In order to study complexity or factor it into our theories or mod-els, a better understanding of complexity is needed. Complexity has at least six dimensions in ecology: spatial, temporal, structural, process, behavioral, and geometric. These six sources of complexity are discussed. Issues and approaches to the study of complexity are also discussed. It is argued that our vocabulary for describing complexity is deficient in many ar-eas. Scaling is a successful technique that has been used to simplify complex relationships. Model reduction is shown to be a powerful technique that applies when either ensembles of objects behave as aggregate wholes or conservation laws constrain overall behaviors. It is argued that experimental frames need more attention when dealing with complex ecosys-tem attributes. Life history theory and metapopulation models are two areas where further development of the subject de-pends on the ability to handle complexity properly. It is concluded that explicit study of complexity is both necessary and timely.
+
+
+
+
+
+Dissecting perceptions of wind energy projects: A laboratory experiment using high-quality audio-visual simulations to analyze experiential versus acceptability ratings and information effects; Robert G. Rige
+
+
+
+
