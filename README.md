@@ -52,3 +52,37 @@ Historical *studies reveal three outcomes to long-term change in problem-solving
 ***The slow development of complexity in problem solving makes its effects difficult to perceive, especially over short time periods.***
 
 **Long-term social sustainability depends on understanding and controlling complexity.** New strategies to mitigate or control complexity are offered.
+
+
+
+
+Concepts encontrados en researchgate:
+https://www.researchgate.net/publication/222694383_Social_Complexity_and_Sustainability/references
+
+Ecological complexity, Sustainable Development, panarchies, economic systems (complexity of), ecological systems (complexity of), social systems (complexity of), Resilience, adaptive cycles, Problem Solving, diversity-stability, socionatural process, land degradation, Hierarchy theory, Post-collapse societies, desertification, complex societies (sustainability of), Order: Self-Organization and Selection in Evolution, war, military revolution, economic change, military conflict, collapse (of complex systems), Overpopulation, Food Crises, Hierarchy Theory, distribution of knowledge, 
+
+The Collapse of Complex Societies
+Chaos: Making a New Science
+World Commission on Environment and Development, Our Common Future
+Hierarchy: Perspectives for Ecological Complexity
+The Food Crises in Prehistory: Overpopulation and the Origins of Agriculture
+The Production and Distribution of Knowledge in The United State
+ Will a Large Complex System Be Stable
+ General System Theory: Foundations, Development, Applications (libro)
+ The Conditions of Agricultural Growth: The Economics of Agrarian Change under Population Pressure
+ Invention and Economic Growth (libro)
+ An Introduction To Cybernetics (capitulo, William Ross Ashby)
+ The Architecture of Complexity**
+ Science and Information Theory
+ The Mathematic Theory of Communication**
+ The Ecology of Invasions by Animals And Plants**
+ Fundamentals of Ecology
+ 
+ vida como manifestacion de la segunda ley de termodinamica
+ https://www.researchgate.net/publication/222487262_Life_as_a_manifestation_of_the_Second_Law_of_Thermodynamics
+ 
+ 
+## Challenges of ecological complexity
+February 2004Ecological Complexity 1(1):3-6
+Abstract
+Complexity poses enormous challenges in ecology. In order to study complexity or factor it into our theories or mod-els, a better understanding of complexity is needed. Complexity has at least six dimensions in ecology: spatial, temporal, structural, process, behavioral, and geometric. These six sources of complexity are discussed. Issues and approaches to the study of complexity are also discussed. It is argued that our vocabulary for describing complexity is deficient in many ar-eas. Scaling is a successful technique that has been used to simplify complex relationships. Model reduction is shown to be a powerful technique that applies when either ensembles of objects behave as aggregate wholes or conservation laws constrain overall behaviors. It is argued that experimental frames need more attention when dealing with complex ecosys-tem attributes. Life history theory and metapopulation models are two areas where further development of the subject de-pends on the ability to handle complexity properly. It is concluded that explicit study of complexity is both necessary and timely.
