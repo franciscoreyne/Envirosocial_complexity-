@@ -1,16 +1,21 @@
 # Envirosocial Complexity 
 
-# Complejidad social aplicada a medio ambiente?
+# ¿Complejidad social aplicada a medio ambiente?
 
-Segun lo indicado por el Centro de COmplejidad Social de la Geroge Mason University (https://socialcomplexity.gmu.edu/)
-su centro de investigacion aborda la complejidad social desde la interdisciplinariedad que comprende investigación, descubrimientos, invenciones que apoyen la exploracion y el analisis de fenomenos sociales humanos. En este centro se enfocan en explotar las interacciones sinergicas entre investigacion teórica y investigacion de política aplicada. 
+El Centro de COmplejidad Social de la Geroge Mason University (https://socialcomplexity.gmu.edu/) se ha dedicado a estudiar la complejidad social, que abordada desde la interdisciplinariedad que comprende investigación, descubrimientos, invenciones que apoyen la exploracion, y el analisis de fenomenos sociales humanos. En este centro se enfocan en explotar las interacciones sinergicas entre la investigacion teórica y la investigacion de la política aplicada. 
 
-Tienen un paper que habla de Desarrollo sustentable en medio de riesgos de inundacion.
-Antes de ver un ejemplo de paper, veamos qué son las ciencias sociales computacionales y qué relacion tienen con la complejidad social.
+Tienen un paper que habla de Desarrollo sustentable en medio de riesgos de inundacion abordado desde la perspectiva de la complejidad social.
+Antes de ver un ejemplo de paper, veamos qué es la complejidad social.
+Podemos entender la Complejidad Social como  _________, aunque _____ la define como _________.
+
+
+¿Ciencias sociales computacionales y complejidad social?
 
 Segun Claudio Ciofﬁ-Revilla (Computational social science, 2010):
-### La ciencia social computacional es un campo interdisciplinario en la intersección de las ciencias sociales, la ciencia computacional y la ciencia de la complejidad.
-The social sciences investigate human and social dynamics and organization at alllevels of analysis (consilience), including cognition, decision making, behavior, groups, organizations, societies, and the world system. Computational socialscience is the integrated, interdisciplinary pursuit of social inquiry with emphasison information processing and through the medium of advanced computation.The main computational social science areas are automated information extractionsystems, social network analysis, social geographic information systems (GIS),complexity modeling, and social simulation models
+### La ciencia social computacional es un campo interdisciplinario en la 
+## intersección de las Ciencias Sociales, la Ciencia Computacional y la Ciencia de la Complejidad.
+
+The social sciences investigate human and social dynamics and organization at all levels of analysis (consilience), including cognition, decision making, behavior, groups, organizations, societies, and the world system. **Computational social science** is the integrated, interdisciplinary pursuit of social inquiry with emphasison information processing and through the medium of advanced computation. *The main computational social science areas are **automated information extraction systems, social network analysis, social geographic information systems (GIS), complexity modeling, and social simulation models.**
 
 
 Aunque es joven según los estándares históricos, la ciencia social computacional ya cubre muchas áreas y temas que anteriormente estaban más allá del ámbito de la investigación científica en las dinámicas humanas y sociales, como lo ilustra la creciente literatura.
