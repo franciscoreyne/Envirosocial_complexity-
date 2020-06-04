@@ -5,8 +5,27 @@
 Segun lo indicado por el Centro de COmplejidad Social de la Geroge Mason University (https://socialcomplexity.gmu.edu/)
 su centro de investigacion aborda la complejidad social desde la interdisciplinariedad que comprende investigación, descubrimientos, invenciones que apoyen la exploracion y el analisis de fenomenos sociales humanos. En este centro se enfocan en explotar las interacciones sinergicas entre investigacion teórica y investigacion de política aplicada. 
 
-TIenen un paper que habla de Desarrollo sustentable en medio de riesgos de inundacion.
+Tienen un paper que habla de Desarrollo sustentable en medio de riesgos de inundacion.
+Antes de ver un ejemplo de paper, veamos qué son las ciencias sociales computacionales y qué relacion tienen con la complejidad social.
+
+Segun Claudio Ciofﬁ-Revilla (Computational social science, 2010):
+### La ciencia social computacional es un campo interdisciplinario en la intersección de las ciencias sociales, la ciencia computacional y la ciencia de la complejidad.
+The social sciences investigate human and social dynamics and organization at alllevels of analysis (consilience), including cognition, decision making, behavior, groups, organizations, societies, and the world system. Computational socialscience is the integrated, interdisciplinary pursuit of social inquiry with emphasison information processing and through the medium of advanced computation.The main computational social science areas are automated information extractionsystems, social network analysis, social geographic information systems (GIS),complexity modeling, and social simulation models
+
+
+Aunque es joven según los estándares históricos, la ciencia social computacional ya cubre muchas áreas y temas que anteriormente estaban más allá del ámbito de la investigación científica en las dinámicas humanas y sociales, como lo ilustra la creciente literatura.
+
+### The social sciences or social science disciplines investigate all forms of human and social dynamics and organization at all levels of analysis (or‘consilience,’2), including cognition, decision making, behavior,groups,organizations,societies,andtheworldsystem.
+
+**The traditional social science disciplines are ﬁve: social psychology, anthropology, economics, political science, and sociology, each of which comprises several specialized branches.**
+
+
+
+
 Assessing and mapping human well-being for sustainable development amid flood hazards: Poyang Lake Region of China
+
+
+
 
 ## Abstract
 
