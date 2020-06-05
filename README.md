@@ -126,5 +126,33 @@ Tiene 1631 publicaciones asociadas.
 
 ## Tiene 6 temas de investigación:
 
-|  Resilience Analysis and Practice |  Regime Shifts |  Scale and Panarchy |  Governance and People |  Ecosystem Services |  Social-ecological Systems | 
+| Análisis y práctica de la resiliencia | Cambios de régimen | Escala y Panarquía | Gobierno y Gente | Servicios de ecosistemas | Sistemas socioecológicos |
+
+### Análisis y práctica de la resiliencia:
+This research theme focuses on the implementation of resilience thinking. A variety of approaches from assessing resilience and developing new methods to quantify resilience, to detecting thresholds and guiding the development of plans, all contribute to advancing our understanding around how to put resilience into practice.
+
+### Cambios de régimen:
+Regime shifts are defined as "large, persistent changes in the structure and function of social-ecological systems, with substantive impacts on the suite of ecosystem services provided by these systems." (regimeshifts.org)
+
+### Escala y Panarquía
+This research theme explores the role of scale, cross-scale interactions, and discontinuities. Scale is a core component of resilience research that refers to both the spatial and temporal dimensions of entities such as systems and processes. Understanding the resilience of systems often requires looking at multiple scales, including scales above and below the focal system. A panarchy extends the concept of multiple interacting scales in a model of linked, hierarchically arranged adaptive cycles that represent cross-scale interactions.
+
+### Gobierno y Gente
+People are an integral part of social-ecological systems. How governance happens, i.e. its structure and function, has both direct and indirect effects on the long-term sustainability and resilience of these systems. Adaptive governance expands the focus from adaptive management of ecosystems to address the broader social contexts that enable ecosystem-based management.
+
+### Servicios de ecosistemaS
+Arctic Council. 2013. Arctic Resilience Interim Report 2013. Stockholm Environment Institute and Stockholm Resilience Centre, Stockholm. http://www.arctic-council.org/arr/resources/project-publications/
+
+Biggs, O., M. Schluter and M. Schoon (eds.). 2014. Principles for Building Resilience: Sustaining Ecosystem Services in Social-Ecological Systems, Cambridge, UK: Cambridge University Press. http://www.cambridge.org/9781107082656
+
+Daw. T. 2014. Ecosystem Services and development. In: The Companion to Development Studies, Third Edition (V. Desai, and R. Potter (eds.)), Routledge, 356-361 p, ISBN: 978-1444167245. http://www.routledge.com/books/details/9781444167245/?utm_source=CMS&utm_medium=Article&utm_campaign=SBU3_SO_1TX_8cm_2DEV_00000
+
+
+
+### Sistemas socioecológicos
+Selected Publications
+
+Basurto, X., S. Gelcich and E. Ostrom. 2013. The Social-Ecological System Framework as a Knowledge Classificatory System for Benthic Small-Scale Fisheries. Global Environmental Change 23(6):1366-1380. http://www.sciencedirect.com/science/article/pii/S0959378013001350
+
+Schlüter, M., J. Hinkel, P.W.G. Bots, and R. Arlinghaus. 2014. Application of the SES framework for model-based analysis of the dynamics of social-ecological systems. Ecology and Society 19(1):36. http://dx.doi.org/10.5751/ES-05782-190136
 
