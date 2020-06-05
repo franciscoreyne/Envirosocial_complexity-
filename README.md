@@ -122,7 +122,9 @@ ________________________________
 # https://www.resalliance.org/publications
 
 The Resilience Alliance is a research organization that focuses on resilience in social-ecological systems as a basis for sustainability.
-Tiene 1631 publicaciones asociadas
-Tiene 6 temas de investigación:
+Tiene 1631 publicaciones asociadas.
+
+## Tiene 6 temas de investigación:
+
 |  Resilience Analysis and Practice |  Regime Shifts |  Scale and Panarchy |  Governance and People |  Ecosystem Services |  Social-ecological Systems | 
 
