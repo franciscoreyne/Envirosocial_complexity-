@@ -117,6 +117,12 @@ Complexity poses enormous challenges in ecology. In order to study complexity or
 
 Dissecting perceptions of wind energy projects: A laboratory experiment using high-quality audio-visual simulations to analyze experiential versus acceptability ratings and information effects; Robert G. Rige
 
+________________________________
 
+# https://www.resalliance.org/publications
 
+The Resilience Alliance is a research organization that focuses on resilience in social-ecological systems as a basis for sustainability.
+Tiene 1631 publicaciones asociadas
+Tiene 6 temas de investigación:
+|  Resilience Analysis and Practice |  Regime Shifts |  Scale and Panarchy |  Governance and People |  Ecosystem Services |  Social-ecological Systems | 
 
